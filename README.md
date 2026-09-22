@@ -1,6 +1,7 @@
 # Electricity-Load-Forecasting-2026
 Interview prep for ds position
 
+```text
 Electricity-Load-Forecasting-2026/
 │
 ├── data/
@@ -17,3 +18,4 @@ Electricity-Load-Forecasting-2026/
 ├── models/
 │
 └── README.md
+```
