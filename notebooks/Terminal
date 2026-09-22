@@ -1,0 +1,6 @@
+cd 
+curl -L -O https://archive.ics.uci.edu/static/public/321/electricityloaddiagrams20112014.zip
+ls -lh
+unzip electricityloaddiagrams20112014.zip
+rm electricityloaddiagrams20112014.zip
+
